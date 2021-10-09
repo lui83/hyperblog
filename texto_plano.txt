@@ -1,5 +1,10 @@
-estoy empezando d nuevo el curso de git y github ya que me cagué en el repostorio
+estoy empezando de nuevo el curso de git y github ya que me cagué en el repostorio
 Asì que voy de nuevo desde el inicio
 Ya pude crear la carpeta y hacer el git init creando una nueva rama master
 Tengo este texto en mi carpeta
 Acabo de hacer correcciones
+
+mas texto, otro commit
+
+
+
