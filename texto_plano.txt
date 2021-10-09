@@ -6,5 +6,6 @@ Acabo de hacer correcciones
 
 mas texto, otro commit
 
+acabo de crear un nueva rama paralela en que dejaré este texto par luego funcionarlo
 
 
